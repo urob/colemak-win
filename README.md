@@ -4,7 +4,7 @@ Adds Colemak-DH to the available keyboard layouts under Windows. The layout is i
 at the OS-level and should work in all applications and even before signing in. No 3rd
 party apps are required to use the layout.
 
-## Default layout
+## Layout
 
 The precompiled binaries install Colemak-DH for standard ANSI keyboards using a en-us
 language profile. Alternative language profiles and ISO variants can be obtained with a
@@ -33,5 +33,5 @@ combination with modifiers.
 Because installing the keyboard layout at the OS-level is more robust. I wanted a
 solution that works across applications and also works at the login screen. (I still use
 AHK and kmonad to implement additional goodies on top of this configuration such as
-[home row mods](https://precondition.github.io/home-row-mods), `backspace` on right alt
-and `esc`/`ctrl` on capslock.
+[home row mods](https://precondition.github.io/home-row-mods), `z` on left shift,
+`backspace` on right alt, `esc`/`ctrl` on capslock, and others.)
