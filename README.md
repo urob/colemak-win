@@ -14,9 +14,10 @@ modifications of the source file (see the "building from source" section below).
 
 ## Installation
 
-Download the binaries folder and run `setup.exe`. This will add Colemak to the list of
-available keyboards. It can be selected from the language bar (`Ctrl + Shift`) or set as
-system default in the language settings.
+Download the binaries folder, run `setup.exe`. This will add "Colemak DH" to
+the list of available keyboards (requires a reboot on Windows 11). It can be
+selected from the language bar (`Ctrl + Shift`) or set as system default in the
+language settings.
 
 ## Building from source
 
